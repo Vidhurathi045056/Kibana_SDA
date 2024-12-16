@@ -146,7 +146,8 @@ These insights can guide strategic decisions on:
 
 ---
 
-The video file containing the dashboard overview is provided below.
+The video file containing the dashboard overview is provided below:
 
-[![Dashboard Overview Video](https://drive.google.com/uc?id=1CyGmSOX3SoPnmlZLXDw8apTI9ucRK6kc)](https://drive.google.com/file/d/1CyGmSOX3SoPnmlZLXDw8apTI9ucRK6kc/view?usp=sharing)
+[Click here to watch the video](https://drive.google.com/file/d/1CyGmSOX3SoPnmlZLXDw8apTI9ucRK6kc/view?usp=sharing)
+
 
